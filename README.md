@@ -16,7 +16,7 @@
 <code><a href="https://www.php.net"><img height="45" src="https://www.vectorlogo.zone/logos/php/php-vertical.svg"></a></code>
 <code><a href="https://azure.microsoft.com/pt-br/"><img height="45" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></a></code>
 
-<h4>Contato</h4>
+<h4>Contato:</h4>
 
 <p align="left">
   <a href="#" alt="Gmail">
