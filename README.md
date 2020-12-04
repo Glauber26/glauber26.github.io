@@ -5,7 +5,7 @@
 
 <br/>
 
-<p>Conhecimento nas seguintes áreas:</p>
+<h4>Conhecimento nas seguintes áreas:</h4>
 
 - Desenvolvimento de aplicativos mobile android e iOs com Flutter
 - Desenvolvimento back-end de APIs PHP
