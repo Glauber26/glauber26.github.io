@@ -12,10 +12,9 @@
 - Conhecimentos dos serviços Microsoft Azure
 - Participação em equipe com metodologia ágil SCRUM
 
+<code><a href="https://flutter.dev/"><img height="45" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
 <code><a href="https://www.php.net"><img height="45" src="https://www.vectorlogo.zone/logos/php/php-vertical.svg"></a></code>
 <code><a href="https://azure.microsoft.com/pt-br/"><img height="45" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></a></code>
-<code><a href="https://flutter.dev/"><img height="45" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
-<code><a href="https://www.nodejs.org"><img height="45" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
 
 <h4>Para entrar em contato</h4>
 
